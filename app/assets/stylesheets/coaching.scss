@@ -1,0 +1,19 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#question{
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.question{
+  border-left-style: solid;
+ border-left-color: #D1DCE0;
+}
+
+.answer{
+  border-left-style: solid;
+  border-left-color: #D1DCE0;
+  margin-bottom: 50px;
+}
